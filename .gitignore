@@ -2,3 +2,5 @@ venv/*
 __pycache__/**
 fancywallet.egg-info/**
 .vscode/*
+tests/__pycache__/*.pyc
+tests/__pycache__/fancywallet_get_price_test.cpython-38.pyc
